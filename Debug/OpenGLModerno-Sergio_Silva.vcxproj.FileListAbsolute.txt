@@ -1,0 +1,3 @@
+C:\Users\jorge\Documents\GitHub\OpenGLModerno-Sergio_Silva\Debug\OpenGLModerno-Sergio_Silva.exe
+C:\Users\jorge\Documents\GitHub\OpenGLModerno-Sergio_Silva\Debug\OpenGLModerno-Sergio_Silva.vcxproj.CopyComplete
+C:\Users\jorge\Documents\GitHub\OpenGLModerno-Sergio_Silva\Debug\glew32d.dll
