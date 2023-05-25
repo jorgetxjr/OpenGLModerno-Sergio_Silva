@@ -1,8 +1,3 @@
-﻿  main.cpp
-C:\Users\jorge\Documents\GitHub\OpenGLModerno-Sergio_Silva\main.cpp(106,24): warning C4838: a conversão de 'double' em 'float' requer uma conversão de restrição
-C:\Users\jorge\Documents\GitHub\OpenGLModerno-Sergio_Silva\main.cpp(106,24): warning C4244: 'inicializando': conversão de 'double' para 'float', possível perda de dados
-C:\Users\jorge\Documents\GitHub\OpenGLModerno-Sergio_Silva\main.cpp(108,24): warning C4838: a conversão de 'double' em 'float' requer uma conversão de restrição
-C:\Users\jorge\Documents\GitHub\OpenGLModerno-Sergio_Silva\main.cpp(108,24): warning C4244: 'inicializando': conversão de 'double' para 'float', possível perda de dados
-C:\Users\jorge\Documents\GitHub\OpenGLModerno-Sergio_Silva\main.cpp(138,21): warning C4244: 'inicializando': conversão de 'double' para 'float', possível perda de dados
-C:\Users\jorge\Documents\GitHub\OpenGLModerno-Sergio_Silva\main.cpp(197,34): warning C4244: '=': conversão de 'double' para 'float', possível perda de dados
+﻿  LINK : C:\Users\jorge\Documents\GitHub\OpenGLModerno-Sergio_Silva\Debug\OpenGLModerno-Sergio_Silva.exe não encontrado ou não compilado pelo o último link incremental; executando link completo
+LINK : warning LNK4098: defaultlib 'MSVCRT' conflita com uso de outras bibliotecas; use /NODEFAULTLIB:library
   OpenGLModerno-Sergio_Silva.vcxproj -> C:\Users\jorge\Documents\GitHub\OpenGLModerno-Sergio_Silva\Debug\OpenGLModerno-Sergio_Silva.exe
